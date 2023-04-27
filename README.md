@@ -1,2 +1,0 @@
-# Spadri-client
-boots website
